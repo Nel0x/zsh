@@ -1,7 +1,7 @@
 # ZSH
 Just my ZSH Config 
 
-## Install required packages
+## Install required packages in Arch Linux
 ```
 $ paru -S zsh zsh-syntax-highlighting zsh-autosuggestions
 ```
