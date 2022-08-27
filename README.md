@@ -9,7 +9,7 @@ $ paru -S zsh zsh-syntax-highlighting zsh-autosuggestions
 ## Setup
 Fetch zsh config:
 ```
-$ wget https://gitlab.com/Nelox/zsh/-/raw/master/.zshrc -O ~/.zshrc
+$ wget https://raw.githubusercontent.com/nel0x/zsh-config/master/.zshrc
 ```
 Download powerlevel10k:
 ```
